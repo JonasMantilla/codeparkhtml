@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EUROPA COMO NINGUEM VIU</title>
+
+    <style>
+        p {
+          color: red;
+          text-align: center;
+        } 
+        </style>
+
+    <nav>
+        <a href="/Italia/">Italia</a> |
+        <a href="/Paris/">Paris</a> |
+        <a href="/Espanha/">Espanha</a> |
+        <a href="/Inglaterra/">Inglaterra</a>
+      </nav>
+    
+</head>
+<body>
+    <h1>
+        <p>Lugares Turisticos</p>
+        <p> <img src="https://www.people-voyage-prive.com/wp-content/uploads/2019/08/banni%C3%A8re-contact.jpg"width="550" height="550">
+        </p>
+        
+    <h1>
+        <h2>
+        <p> <i>Itália: Coliseu de Roma</i></p>
+        <img src="https://viajantesemfim.com.br/wp-content/uploads/2019/11/74579800_745524229192496_4182163338634985472_o-800x500.jpg"width="550" height="550">
+        <p>O principal ponto turístico da Itália é sem dúvida o Coliseu de Roma. É um dos monumentos mais famosos do mundo e atrai nada menos do que 4 milhões de turistas todos os anos. Sua construção se iniciou no ano de 72 d.C. e durante décadas, serviu de palco para gladiadores que lutavam entre si ou com animais para um público de mais de 70 mil romanos.</p>
+        
+        <p><i>França: Torre Eiffel em Paris</i></p>
+        <img src="https://prefiroviajar.com.br/wp-content/uploads/2016/06/torre-eiffel-prefiro-viajar.jpg"width="550" height="550">
+        <p>É claro que a Torre Eiffel de Paris não poderia estar fora dessa lista. Construída em 1889, ela conta com 325 metros de altura e 1.665 degraus, e você não pode deixar de visitá-la quando estiver em Paris. Vista de diversas partes da capital francesa, a Torre Eiffel é um marco de como um monumento pode tornar-se um símbolo de uma nação.</p>
+   
+        <p><i>Espanha: Sagrada Família em Barcelona</i></p>
+        <img src="https://prefiroviajar.com.br/wp-content/uploads/2016/06/barcelona-prefiro-viajar.jpg"width="550" height="550">
+        <P>Os principais pontos turísticos de Barcelona e da Espanha foram construídos pelo famoso arquiteto Antoni Gaudì. A principal obra e o ponto turístico mais famoso que ele construiu é a Sagrada Família de Barcelona, uma igreja com uma grandeza incomparável e que ainda não está acabada, pela enorme quantidade de detalhes e pelo tamanho que foi projetada.</P>
+    
+        <p><i>Inglaterra: Torre Big Ben de Londres</i></p>
+        <img src="https://prefiroviajar.com.br/wp-content/uploads/2016/06/big-ben-londres-prefiro-viajar.jpg"width="550" height="550">
+        <P>Outro ponto turístico famoso e um dos símbolos da Europa é o Big Ben de Londres. É no Big Ben que está instalado o parlamento inglês e é parada obrigatória para qualquer turista que visita a cidade de Londres e a Inglaterra, independente da época.</P>
+    </h2>
+
+<footer>
+    <footer>
+  
+        
+           
+           <h3>Menu</h3>
+           
+           <ul>
+             <li><a href="#">Sobre</a></li>
+             <li><a href="#">Artigos</a></li>
+             <li><a href="#">Categorias</a></li>
+             <li><a href="#">Contato</a></li>
+           </ul>
+        
+        </div> 
+        
+       
+           <h3>Redes Sociais</h3> 
+            <ul>
+              <li><a href="#">Facebook</a></li>
+              <li><a href="#">Instagram</a></li>
+              <li><a href="#">Twitter</a></li>
+              <li><a href="#">Youtube</a></li>
+            </ul>
+        </div>
+      </footer>
+</footer>
+  
+        
+
+    
+</body>
+</html>
