@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>HOME</title>
+    
+
+  
+  </head>
+
+  <body>
+   
+
+    <header>
+        <h1>RECIFE
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGDIrNWglausH_wokfimcZTUlNcZj4yfXlw&usqp=CAU" alt="logo"width="100" height="50"align="left">
+    </h1>
+      
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Lugares Turisticos</a></li>
+        <li><a href="#">Restaurantes</a></li>
+        <li><a href="#">Hoteis</a></li>
+      </ul>
+
+      
+
+       <form>
+         <input type="search" name="q" placeholder="Search query">
+         <input type="submit" value="Go!">
+       </form>
+     </nav>
+
+  
+    <main>
+
+     
+      <article>
+        <h2>Recife</h2>
+
+        <p>O município de Recife é a capital de Pernambuco. É conhecido mundialmente pelo frevo. Os festejos carnavalescos recifenses atraem uma multidão de turistas para a cidade. Recife é a capital do estado de Pernambuco e localiza-se na costa nordestina do litoral brasileiro.</p>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Recife_-_In%C3%ADcio_da_Avenida_Boa_Viagem.jpg" alt="praiarecife" width="1000" height="500"align="left">
+          
+
+
+        <h3>Hidrografia</h3>
+
+        <p>O Recife é conhecido como "Veneza Brasileira" graças à semelhança fluvial de sua área mais central com a cidade europeia de Veneza. Cercado por rios e cortado por pontes, é cheio de ilhas e mangues. Na cidade acontece o encontro dos rios Beberibe e Capibaribe que deságuam no Oceano Atlântico. O município conta com dezenas de pontes, entre elas a mais antiga da América Latina, a Ponte Maurício de Nassau.
+
+            Na vasta rede de rios e canais da metrópole pernambucana se destacam as bacias dos rios Capibaribe, Beberibe, Tejipió e um sistema de drenagem composto por uma série de cursos d’água secundários ou canais, afluentes ou interligados à drenagem principal. Sua malha hídrica é composta por cursos d’água como os rios Moxotó, Jangadinha, Jiquiá e Jordão, além de diversos canais, e recebe ainda a contribuição do rio Capibaribe pelo seu "braço morto", e também de corpos d’água de expressão em áreas como a Lagoa do Araçá, o Açude da Várzea e o Açude Jangadinha.</p>
+
+        <p>
+
+        <h3>Parques</h3>
+
+        <p>O Parque Estadual Dois Irmãos é o maior parque do município. Além de parque, é horto, jardim botânico, zoológico e reserva ambiental. Como um parque, Dois Irmãos oferece uma variedade de diversões e lazer para adultos e crianças incentivando o interesse em conservação do ambiente. De seus 384,42 hectares, 350,10 são de reserva ambiental. O parque e a reserva são separados por arames, e os animais da reserva não podem ser mantidos em cativeiro pelo zoológico.
+
+            A Mata do Engenho Uchoa, na Zona Sul, refúgio de vida silvestre de 20 hectares, no nível estadual, e Área de Proteção Ambiental de 192 hectares, no municipal, é protegida por lei pelo estado de Pernambuco. Dos 192 hectares, 60 são de manguezal, que pertencem à União. É considerada a mais abrangente unidade de conservação do Recife. Decretada de utilidade pública em 2002, a área da Mata do Engenho Uchoa nunca foi desapropriada porque os proprietários contestaram o valor da indenização. É a única área em Pernambuco que possui os três biomas: mangue, restinga e Mata Atlântica.</p>
+
+        <p>O Parque da Jaqueira, localizado no bairro homônimo, área nobre e residencial do Recife, foi inaugurado em 1985, e reúne dois espaços distintos: o do sítio histórico, onde se localiza a Capela de Nossa Senhora da Conceição (Capelinha da Jaqueira), e a parte destinada à prática de esportes, às atividades culturais e contemplativas. A capela foi tombada e restaurada na década de 1970, sendo emoldurada por um jardim de Burle Marx. O parque possui pistas de cooper (1.000 m), patinação (600 m) e bicicross (400 m), ciclovia (1.100 m) e instalações de apoio aos usuários.
+
+            O Parque 13 de Maio, localizado entre as ruas da Saudade, João Lira, Princesa Isabel e do Hospício, na Boa Vista, possui pista de cooper, pequeno zoológico, parque infantil e vários monumentos. Em seu entorno estão alguns prédios centenários, como o da Faculdade de Direito do Recife (a primeira do país) e a sede da Câmara de Vereadores. Teve sua construção iniciada em 1892, na gestão do governador Alexandre José Barbosa Lima. Em 1939, foi transformado em parque pelo então prefeito Antônio Novaes Filho.O Parque da Jaqueira, localizado no bairro homônimo, área nobre e residencial do Recife, foi inaugurado em 1985, e reúne dois espaços distintos: o do sítio histórico, onde se localiza a Capela de Nossa Senhora da Conceição (Capelinha da Jaqueira), e a parte destinada à prática de esportes, às atividades culturais e contemplativas. A capela foi tombada e restaurada na década de 1970, sendo emoldurada por um jardim de Burle Marx. O parque possui pistas de cooper (1.000 m), patinação (600 m) e bicicross (400 m), ciclovia (1.100 m) e instalações de apoio aos usuários.
+
+O Parque 13 de Maio, localizado entre as ruas da Saudade, João Lira, Princesa Isabel e do Hospício, na Boa Vista, possui pista de cooper, pequeno zoológico, parque infantil e vários monumentos. Em seu entorno estão alguns prédios centenários, como o da Faculdade de Direito do Recife (a primeira do país) e a sede da Câmara de Vereadores. Teve sua construção iniciada em 1892, na gestão do governador Alexandre José Barbosa Lima. Em 1939, foi transformado em parque pelo então prefeito Antônio Novaes Filho.</p>
+      </article>
+
+     
+      <aside>
+        <h2>Para mais informaçoes</h2>
+
+        <ul>
+          <li><a href="#">Facebook</a></li>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">whatsapp/a></li>
+          
+        </ul>
+      </aside>
+
+    </main>
+
+    
+
+    <footer>
+      <p>©Copyright 2050 by nobody. All rights reversed.</p>
+    </footer>
+
+  </body>
+</html>
