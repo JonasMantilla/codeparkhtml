@@ -22,7 +22,7 @@
     <nav>
       <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#">Lugares Turisticos</a></li>
+        <li><a href="pontosturisticos.html">Lugares Turisticos</a></li>
         <li><a href="#">Restaurantes</a></li>
         <li><a href="#">Hoteis</a></li>
       </ul>
